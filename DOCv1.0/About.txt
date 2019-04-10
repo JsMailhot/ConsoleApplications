@@ -1,0 +1,36 @@
+What is DOC?
+
+DOC (Documents on console) is a console application which allows users to view several types of documents in the console itself.
+
+What does DOC do?
+
+When prompted for a document the user is able to give any document and if accepted view that document on the console.
+DOC formats files so they fit to the console layout, misformatted files may not appear correctly.
+
+How do I use DOC?
+
+All you have to do is run the .exe file inside the debug folder in order to start the application.
+Once the application has started it will prompt you with the startup text, pressing any key will continue to the next screen.
+The next screen will prompt you for input of a file path and name, this is the full file path and name of your file you are viewing.
+Example of a proper file path and name to input:  C:\example\file\path\exampleFileName.ext (ext is the extension on the file).
+
+How does DOC work?
+
+Documents consumed by DOC are converted into text which is formatted to fit on the display of the console.
+Some files are able to be displayed without being altered, however this is not always the case.
+Many file types have hard to read formats or simply won't work within the console, in these cases the text is slightly modified so it works.
+
+Why does DOC exist?
+
+DOC was designed with the purpose of allowing users who enjoy the feeling of using a console (like myself) to view files how they like to.
+DOC was also designed for a personal portfolio which is purposed to showcase many of the talents capable by it's creator.
+
+Who created DOC?
+
+The creator of DOC is Justin Mailhot, a software and hardware engineer with not enough time on his hands thanks to projects like this.
+
+What do I do if I run into issues?
+
+Contact the creator as soon as you want the issue to be looked at, This project is currently being maintained and improved every day.
+
+Thank you for your interest and contribution. <3
