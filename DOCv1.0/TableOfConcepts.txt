@@ -1,0 +1,4 @@
+ - Ogranizational Readability Concepts: https://github.com/JsMailhot/ConsoleApplications/blob/master/DOCv1.0/DataOnConsole1/Program.cs
+ - Console GUI Manipulation: https://github.com/JsMailhot/ConsoleApplications/blob/master/DOCv1.0/DataOnConsole1/Program.cs - 34
+ - Functional Absctraction: https://github.com/JsMailhot/ConsoleApplications/blob/master/DOCv1.0/DataOnConsole1/Program.cs - 139-639
+ - Overload Function Concepts: https://github.com/JsMailhot/ConsoleApplications/blob/master/DOCv1.0/DataOnConsole1/Program.cs - 166-223,435-640
